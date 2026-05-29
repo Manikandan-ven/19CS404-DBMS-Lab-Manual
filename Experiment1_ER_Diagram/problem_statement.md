@@ -22,8 +22,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-Name: Rithika L
-Reg No: 212224230231
+Name: MANIKANDAN V
+Reg No: 212224230151
 <img width="1203" height="827" alt="dbmsexp1 1" src="https://github.com/user-attachments/assets/7e5caa3d-8b50-4a09-8a1b-e3202d3eb02b" />
 
 
